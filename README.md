@@ -100,3 +100,12 @@ pytest tests/ -v
 
 Run a final Studio Mode integration test with multiple validators before a
 production deployment.
+
+## Studionet deployment
+
+- Contract address: `0x4b29233865c6c440DD6308628E2c87bAEdc789aa`
+- Execution mode: Normal (Full Consensus)
+- Deployment status: `FINALIZED`
+- GenVM result: `SUCCESS`
+- Consensus result: `Accepted`
+- Explorer: https://explorer-studio.genlayer.com/address/0x4b29233865c6c440DD6308628E2c87bAEdc789aa
