@@ -24,6 +24,13 @@ Both leader and validator prompts treat pages as untrusted evidence, ignore embe
 
 https://github.com/evrendag/multi-source-claim-resolver-genlayer
 
+## GenLayer Explorer deployment
+
+https://explorer-studio.genlayer.com/address/0x4b29233865c6c440DD6308628E2c87bAEdc789aa
+
+Deployed on Studionet using Normal (Full Consensus). The deployment is
+`FINALIZED`, with GenVM `SUCCESS` and consensus result `Accepted`.
+
 ## Test proof
 
 `4 passed` with the official `genlayer-test` direct test runner.
